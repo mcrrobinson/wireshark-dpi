@@ -8,3 +8,6 @@ sudo bash wireshark-dpi/run.sh
 </pre>
 In order to start wireshark run the following command.
 <pre>sudo wireshark</pre>
+
+For information about nDPI with Wireshark read the following article.
+https://sharkfestus.wireshark.org/assets/presentations17/10.pdf
